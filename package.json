@@ -5,7 +5,7 @@
   "description": "An app to resize the image",
   "main": "main.js",
   "scripts": {
-    "start": "npx electronmon ."
+    "start": "electron ."
   },
   "author": "Soe Wei Yan Phyo",
   "license": "ISC",
